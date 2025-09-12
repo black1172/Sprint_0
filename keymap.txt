@@ -1,0 +1,12 @@
+# Key Mappings
+# Format: KeyName=ActionName
+W=MoveUp
+A=MoveLeft
+S=MoveDown
+D=MoveRight
+Space=Jump
+0=Quit
+1=DisplaySingleFrameSprite
+2=DisplayAnimatedSpriteFixedPosition
+3=DisplaySingleFrameSpriteMoveUpDown
+4=DisplayAnimatedSpriteMoveLeftRight

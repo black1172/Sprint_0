@@ -1,6 +1,0 @@
-# Mouse Mappings
-# Format: ButtonName=ActionName
-LeftButtonTopLeft=DisplaySingleFrameSpriteFixedPosition
-LeftButtonTopRight=DisplayAnimatedSpriteFixedPosition
-LeftButtonBottomLeft=DisplaySingleFrameSpriteMoveUpDown
-LeftButtonBottomRight=DisplayAnimatedSpriteMoveLeftRight
